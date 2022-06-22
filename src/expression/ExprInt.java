@@ -1,0 +1,4 @@
+package expression;
+
+public interface ExprInt extends Expression, TripleExpression, BigIntegerExpression {
+}
